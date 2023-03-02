@@ -29,7 +29,7 @@ Le sketch doit être sauvegardé sur votre compte en ligne, l'addresse (URL) doi
 J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe ou de références que vous trouvez en ligne.
 
 ## Cours 01
-*Bordeaux / jeudi 2 mars 2023*
+*Jeudi 2 mars 2023*
 
 ### Introduction
 * Présentation du travail de Julien Gachadoat.
