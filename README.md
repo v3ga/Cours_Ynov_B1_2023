@@ -1,7 +1,7 @@
 # Cours Processing B1 Ynov Bordeaux
 *du 2 mars au 9 mai 2023*
 
-<img src="v3ga_carte_visite_Structures.jpg" height="400px" />
+<img src="Structures_Julien_v3ga_Gachadoat_0xc849c3099ad5c9615548b6f31348c5894e23fdacb91687eeeeddd63ae086da8e.jpg" height="400px" /><img src="v3ga_carte_visite_Structures.jpg" height="400px" />
 
 #### Sketches en ligne
 ✍️ https://editor.p5js.org/v3ga/collections/0chtGIgKA
