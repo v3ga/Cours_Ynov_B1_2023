@@ -11,7 +11,7 @@
 
 #### Visualisation de l'exécution d'un programme p5.js
 :male_detective: https://v3ga.net/p5LearnableProgramming/index_U2_L2_lines.php<br />
-C'est un projet expérimental pour montrer l'exécution pas à pas d'un programme sur quelques commandes de dessin.
+C'est un projet expérimental pour montrer l'exécution pas à pas d'un programme sur quelques commandes de dessin. Utilisez la liste pour accéder aux différents exemples.
 
 
 ## Thème
