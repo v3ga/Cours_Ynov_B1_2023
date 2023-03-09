@@ -9,6 +9,11 @@
 #### Google Sheets pour les rendus
 ✍️ https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/
 
+#### Visualisation de l'exécution d'un programme p5.js
+:male_detective: https://v3ga.net/p5LearnableProgramming/index_U2_L2_lines.php<br />
+C'est un projet expérimental pour montrer l'exécution pas à pas d'un programme sur quelques commandes de dessin.
+
+
 ## Thème
 Au croisement du design graphique et de la programmation, ces cours proposeront d’utiliser l'environnement [Processing](https://processingfoundation.org/) dans sa version web [p5.js](https://p5js.org/) pour créer, générer des formes géométriques afin de les imprimer à l’aide d’un [robot traceur](https://www.axidraw.com/) dans la lignée des pionniers de l'art génératif.
 Le projet final de ces cours mettra en œuvre ces techniques de programmation et l'utilisation du traceur pour produire des cartes de visites génératives. 
