@@ -6,6 +6,9 @@
 #### Sketches en ligne
 ✍️ https://editor.p5js.org/v3ga/collections/0chtGIgKA
 
+#### Google Sheets pour les rendus
+✍️ https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/
+
 ## Thème
 Au croisement du design graphique et de la programmation, ces cours proposeront d’utiliser l'environnement [Processing](https://processingfoundation.org/) dans sa version web [p5.js](https://p5js.org/) pour créer, générer des formes géométriques afin de les imprimer à l’aide d’un [robot traceur](https://www.axidraw.com/) dans la lignée des pionniers de l'art génératif.
 Le projet final de ces cours mettra en œuvre ces techniques de programmation et l'utilisation du traceur pour produire des cartes de visites génératives. 
@@ -76,4 +79,4 @@ Bruno Munari est un artiste plasticien italien. Peintre, sculpteur, dessinateur,
 Créez un visage dans le style de Bruno Munari en utilisant des formes géométriques.
 Ajouter un élément d’interactivité en utilisant [la position de la souris](https://p5js.org/reference/#/p5/mouseX) ou la fonction [random](https://p5js.org/reference/#/p5/random). Le visage se dessinera sur un canvas de dimensions (500,500) pixels, les couleurs à utiliser sont le noir et le blanc uniquement. 
 
-L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du sketch est à placer dans la colonne correspondante sur le document en ligne (à venir)
+L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du sketch est à placer dans la colonne correspondante sur le document en ligne [Google Sheets](https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/)
