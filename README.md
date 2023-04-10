@@ -73,7 +73,6 @@ Bruno Munari est un artiste plasticien italien. Peintre, sculpteur, dessinateur,
 
 <img src="Design_as_art_cover-1.jpg" height="400" /><img src="cours02_visage_munari.png" height="400" />
 
-
 ### Animer
 * Animer : 
   * avec une fonction génératrice de nombre aléatoires : [random](https://p5js.org/reference/#/p5/random)  
@@ -85,3 +84,25 @@ Créez un visage dans le style de Bruno Munari en utilisant des formes géométr
 Ajouter un élément d’interactivité en utilisant [la position de la souris](https://p5js.org/reference/#/p5/mouseX) ou la fonction [random](https://p5js.org/reference/#/p5/random). Le visage se dessinera sur un canvas de dimensions (500,500) pixels, les couleurs à utiliser sont le noir et le blanc uniquement. 
 
 L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du sketch est à placer dans la colonne correspondante sur le document en ligne [Google Sheets](https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/)
+
+## Cours 03
+*mardi 11 avril 2023*
+
+### Introduction à la notion de [variable](https://p5js.org/reference/#/p5/let)
+* variables prédéfinies vues dans les cours précédents : mouseX / mouseY, width / height, frameCount.
+* création / utilisation d'une variable dans un sketch simple. 
+* Variable pour la gestion d'un media : 
+  * Chargement et affichage d'une image, gestionnaire [preload()](https://p5js.org/reference/#/p5/preload)
+  * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image.
+  * utilisation des informations de couleurs pour générer une composition : effet de « pointillisme ».
+
+#### Exercice à faire en cours
+* reprendre le sketch de dessin avec la souris ( https://editor.p5js.org/v3ga/sketches/-TrdeNAX9 )
+* remplacer le dessin du cercle par le dessin d'un motif de votre composition. Plusieurs opérations à faire : 
+  * dupliquer [le sketch d'exemple](https://editor.p5js.org/v3ga/sketches/-TrdeNAX9) pour le sauver dans votre sketchbook.
+  * créer la variable associée à l'image.
+  * charger l'image dans en utilisant le gestionnaire [preload()](https://p5js.org/reference/#/p5/preload).    
+
+### Structure de branchement [if-else](https://p5js.org/reference/#/p5/if-else)
+* exemple avec affichage d’un objet en fonction de la position de la souris.
+* Modélisation d'un objet (bille), rebond sur les bords de l'écran.
