@@ -96,13 +96,13 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
   * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image.
   * utilisation des informations de couleurs pour générer une composition : effet de « pointillisme ».
 
+### Structure de branchement [if-else](https://p5js.org/reference/#/p5/if-else)
+* exemple avec affichage d’un objet en fonction de la position de la souris.
+* Modélisation d'un objet (bille), rebond sur les bords de l'écran.
+
 #### Exercice à faire en cours
 * reprendre le sketch de dessin avec la souris ( https://editor.p5js.org/v3ga/sketches/-TrdeNAX9 )
 * remplacer le dessin du cercle par le dessin d'un motif de votre composition. Plusieurs opérations à faire : 
   * dupliquer [le sketch d'exemple](https://editor.p5js.org/v3ga/sketches/-TrdeNAX9) pour le sauver dans votre sketchbook.
   * créer la variable associée à l'image.
-  * charger l'image dans en utilisant le gestionnaire [preload()](https://p5js.org/reference/#/p5/preload).    
-
-### Structure de branchement [if-else](https://p5js.org/reference/#/p5/if-else)
-* exemple avec affichage d’un objet en fonction de la position de la souris.
-* Modélisation d'un objet (bille), rebond sur les bords de l'écran.
+  * charger l'image dans en utilisant le gestionnaire [preload()](https://p5js.org/reference/#/p5/preload). 
