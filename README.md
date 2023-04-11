@@ -106,3 +106,6 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
   * dupliquer [le sketch d'exemple](https://editor.p5js.org/v3ga/sketches/-TrdeNAX9) pour le sauver dans votre sketchbook.
   * créer la variable associée à l'image.
   * charger l'image dans en utilisant le gestionnaire [preload()](https://p5js.org/reference/#/p5/preload). 
+
+#### Exemples
+* [Takawo / 230320_15minCoding](https://editor.p5js.org/takawo/sketches/xWNhr-9Bg) 
