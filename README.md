@@ -113,3 +113,17 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
 
 #### Exemples
 * [Takawo / 230320_15minCoding](https://editor.p5js.org/takawo/sketches/xWNhr-9Bg) 
+
+## Cours 04
+*mardi 25 avril 2023*
+
+### Introduction à la notion de [boucle](https://p5js.org/reference/#/p5/for)
+* répétition d’un élément graphique de façon « naïve ».
+* utilisation d'une boucle pour réaliser le même sketch. 
+* création d'une double boucles imbriquées : pavage de du canvas avec un motif, modulation de la taille des motifs en fonction de la souris et du temps.
+* Utilisation de cette grille pour reprogrammer une œuvre de [Vera Molnar](http://www.veramolnar.com/) : Quatre éléments ditribués au hasard (1959)
+
+<a href="https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op" target="_blank"><img src="VeraMolnar_1959.png" height="250"/></a>
+
+
+
