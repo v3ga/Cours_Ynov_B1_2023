@@ -96,6 +96,9 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
   * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image.
   * utilisation des informations de couleurs pour générer une composition : effet de « pointillisme ».
 
+
+<img src="03_image_ibm.png" height="400" /><img src="03_image_pointillisme.png" height="400" />
+
 ### Structure de branchement [if-else](https://p5js.org/reference/#/p5/if-else)
 * exemple avec affichage d’un objet en fonction de la position de la souris.
 * Modélisation d'un objet (bille), rebond sur les bords de l'écran.
