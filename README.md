@@ -1,7 +1,7 @@
 # Cours Processing B1 Ynov Bordeaux
 *du 2 mars au 9 mai 2023*
 
-<img src="Structures_Julien_v3ga_Gachadoat_0xc849c3099ad5c9615548b6f31348c5894e23fdacb91687eeeeddd63ae086da8e.jpg" height="400px" /><img src="v3ga_carte_visite_Structures.jpg" height="400px" />
+<img src="Structures_Julien_v3ga_Gachadoat_0xc849c3099ad5c9615548b6f31348c5894e23fdacb91687eeeeddd63ae086da8e.jpg" height="300" /><img src="v3ga_carte_visite_Structures.jpg" height="300" />
 
 #### Sketches en ligne
 ✍️ https://editor.p5js.org/v3ga/collections/0chtGIgKA
@@ -61,7 +61,7 @@ J'entends par créativité une recherche graphique personelle et/ou interactive 
 #### Exercice
 Choisir une des œuvres [« Homages to the square »](https://www.google.fr/search?q=Josef+albers+square&sxsrf=AJOqlzXDonDyiy1zWyFfiJG2-z_exlfBGA:1677769320061&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj0_tjiwb39AhWwVaQEHe5MD3wQ_AUoAXoECAEQAw&biw=1298&bih=898&dpr=1) de Josef Albers pour le récréer avec du code.
 
-<img src="cours01_hommage_square.png" height="400" />
+<img src="cours01_hommage_square.png" height="250" />
 
 ## Cours 02
 *Jeudi 9 mars 2023*
@@ -71,7 +71,7 @@ Choisir une des œuvres [« Homages to the square »](https://www.google.fr/se
 
 Bruno Munari est un artiste plasticien italien. Peintre, sculpteur, dessinateur, designer, il est également auteur et illustrateur de livres pour enfants (source : [wikipedia](https://fr.wikipedia.org/wiki/Bruno_Munari))
 
-<img src="Design_as_art_cover-1.jpg" height="400" /><img src="cours02_visage_munari.png" height="400" />
+<img src="Design_as_art_cover-1.jpg" height="250" /><img src="cours02_visage_munari.png" height="250" />
 
 ### Animer
 * Animer : 
@@ -96,13 +96,13 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
   * Utiliser la fonction [imageMode()](https://p5js.org/reference/#/p5/imageMode) pour changer l'origine du dessin de l'image.
   * utilisation des informations de couleurs pour générer une composition : effet de « pointillisme ».
 
-<img src="03_image_ibm.png" height="400" /><img src="03_image_pointillisme.png" height="400" />
+<img src="03_image_ibm.png" height="250" /><img src="03_image_pointillisme.png" height="250" />
 
 ### Structure de branchement [if-else](https://p5js.org/reference/#/p5/if-else)
 * exemple avec affichage d’un objet en fonction de la position de la souris.
 * Modélisation d'un objet (bille), rebond sur les bords de l'écran.
 
-<img src="03_bille_condition.png" height="400" />
+<img src="03_bille_condition.png" height="250" />
 
 #### Exercice à faire en cours
 * reprendre le sketch de dessin avec la souris ( https://editor.p5js.org/v3ga/sketches/-TrdeNAX9 )
