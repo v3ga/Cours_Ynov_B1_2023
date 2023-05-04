@@ -117,6 +117,8 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
 ## Cours 04
 *jeudi 4 mai 2023*
 
+### Révision de la structure [if-else](https://p5js.org/reference/#/p5/if-else)
+* exemple de partition de l'espace et opérateurs logiques.
 ### Introduction à la notion de [boucle](https://p5js.org/reference/#/p5/for)
 * répétition d’un élément graphique de façon « naïve ».
 * utilisation d'une boucle pour réaliser le même sketch. 
@@ -124,6 +126,8 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
 * Utilisation de cette grille pour reprogrammer une œuvre de [Vera Molnar](http://www.veramolnar.com/) : Quatre éléments ditribués au hasard (1959)
 
 <a href="https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op" target="_blank"><img src="VeraMolnar_1959.png" height="250"/></a>
-
+### Préparation du projet final
+* préparation du sketch pour l'impression avec plotter d'une carte de visite au format *80 x 55 mm*
+ 
 
 
