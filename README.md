@@ -115,7 +115,7 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
 * [Takawo / 230320_15minCoding](https://editor.p5js.org/takawo/sketches/xWNhr-9Bg) 
 
 ## Cours 04
-*mardi 25 avril 2023*
+*jeudi 4 mai 2023*
 
 ### Introduction à la notion de [boucle](https://p5js.org/reference/#/p5/for)
 * répétition d’un élément graphique de façon « naïve ».
