@@ -123,9 +123,10 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
 * répétition d’un élément graphique de façon « naïve ».
 * utilisation d'une boucle pour réaliser le même sketch. 
 * création d'une double boucles imbriquées : pavage de du canvas avec un motif, modulation de la taille des motifs en fonction de la souris et du temps.
-* Utilisation de cette grille pour reprogrammer une œuvre de [Vera Molnar](http://www.veramolnar.com/) : Quatre éléments ditribués au hasard (1959)
+* Utilisation de cette grille pour reprogrammer une œuvre de [Vera Molnar](http://www.veramolnar.com/) : [Quatre éléments ditribués au hasard (1959)](https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op)
 
-<a href="https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op" target="_blank"><img src="VeraMolnar_1959.png" height="250"/></a>
+<a href="https://www.centrepompidou.fr/fr/ressources/oeuvre/cez6op" target="_blank"><img src="VeraMolnar_1959.png" height="250"/></a><br>
+<img src="04_quatre_éléments.png" height="250" /><img src="04_truchet.png" height="250" />
 ### Préparation du projet final
 * préparation du sketch pour l'impression avec plotter d'une carte de visite au format *80 x 55 mm*
  
