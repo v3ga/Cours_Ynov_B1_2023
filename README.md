@@ -130,5 +130,9 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
 ### Préparation du projet final
 * préparation du sketch pour l'impression avec plotter d'une carte de visite au format *80 x 55 mm*
  
+#### Références 
+* [Grilles de truchet (images)](https://www.qwant.com/?client=brz-brave&t=images&q=truchet+grille&o=0%3AC9C8648332497AA6B9189484BAF8D6733465D4F4)
+* [Jean-Noël Lafargue - L'improvisateur de tissus (1871)](https://hyperbate.fr/dernier/?p=42335)<br />*Le 28 juillet 1871, face à l’Académie d’Amiens, l’ingénieur textile Édouard Gand a présenté ses travaux sur ce que l’on peut considérer comme un des tout premiers exemples — sinon le premier exemple véritable — de design génératif mécanique.*
+* [Guillaume Pelletier-Auger - Les pavages de Truchet](https://pelletierauger.com/fr/projets/les-pavages-de-truchet.html)<br />*Errances dans les mathématiques françaises du XVIIIe siècle.*
 
 
