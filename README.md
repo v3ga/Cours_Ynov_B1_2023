@@ -175,10 +175,12 @@ Le travail est à faire par binôme ou seul. Pour les binômes, merci de colorer
 Partir du sketch https://editor.p5js.org/v3ga/sketches/ormNS3fC9 et imaginer au moins quatre motifs qui se combinent en utilisant uniquement des dessins avec des "lignes" (line, arc, bezier, triangle, etc ... avec *noFill()*)
 
 #### Références "grilles de motifs"
+* [Making Truchet Tiles in p5.js](https://www.youtube.com/watch?v=99Hr8lpWWSg)
 * [Anna Carreras / Trosset](https://www.artblocks.io/project/147)
 * [Collection des L2 Design Arts Bordeaux Montaigne (2021)](https://editor.p5js.org/v3ga/collections/ZUiEWFocJ)
 * [Collection des L2 Design Arts Bordeaux Montaigne (2022)](https://editor.p5js.org/v3ga/collections/pROfwp32m)
 * [Grilles de truchet (images)](https://www.qwant.com/?client=brz-brave&t=images&q=truchet+grille&o=0%3AC9C8648332497AA6B9189484BAF8D6733465D4F4)
+* [Multiscale Truchet Patterns with Processing](https://github.com/ciaron/multiscale-truchet)
 
 
 
