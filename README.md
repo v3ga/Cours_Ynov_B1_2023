@@ -135,4 +135,16 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
 * [Jean-Noël Lafargue - L'improvisateur de tissus (1871)](https://hyperbate.fr/dernier/?p=42335)<br />*Le 28 juillet 1871, face à l’Académie d’Amiens, l’ingénieur textile Édouard Gand a présenté ses travaux sur ce que l’on peut considérer comme un des tout premiers exemples — sinon le premier exemple véritable — de design génératif mécanique.*
 * [Guillaume Pelletier-Auger - Les pavages de Truchet](https://pelletierauger.com/fr/projets/les-pavages-de-truchet.html)<br />*Errances dans les mathématiques françaises du XVIIIe siècle.*
 
+## Cours 05
+*mardi 9 mai*
+
+### Transformations
+Nous allons apprendre à générer des formes composées à partir d’une forme simple qui sera dupliquée et transformée. Pour cela nous allons exploiter les fonctions de transformations du repère ([translate](https://p5js.org/reference/#/p5/translate), [rotate](https://p5js.org/reference/#/p5/rotate), [scale](https://p5js.org/reference/#/p5/scale)), combinées avec la structure de boucle que nous avons vus la semaine passée.
+Nous en profiterons pour revoir les boucles pour combiner répétitions et transformations.
+
+### Interface graphique (UI)
+Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des (sliders)[https://p5js.org/reference/#/p5/createSlider] ou en déclanchant des actions avec des boutons(https://p5js.org/reference/#/p5/createButton)
+
+#### Références
+* [John Whitney — Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
 
