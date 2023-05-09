@@ -149,7 +149,7 @@ createCanvas(widthCard*s,heightCard*s,SVG); // notez le troisième paramètre SV
 À partir de ce cours, vous travaillerez en *dupliquant* ce sketch : https://editor.p5js.org/v3ga/sketches/dLcxRCEFe
 
 ### Exemple export SVG avec la grille de motifs
-https://editor.p5js.org/v3ga/sketches/2aliwVF_y
+✍️ https://editor.p5js.org/v3ga/sketches/2aliwVF_y
 
 ### Template pour la grille de motifs
 ✍️ https://editor.p5js.org/v3ga/sketches/ormNS3fC9 
