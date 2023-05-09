@@ -159,7 +159,7 @@ Nous allons apprendre à générer des formes composées à partir d’une forme
 Nous en profiterons pour revoir les boucles pour combiner répétitions et transformations.
 
 ### Interface graphique (UI)
-Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des (sliders)[https://p5js.org/reference/#/p5/createSlider] ou en déclanchant des actions avec des boutons(https://p5js.org/reference/#/p5/createButton)
+Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des [sliders](https://p5js.org/reference/#/p5/createSlider) ou en déclanchant des actions avec des [boutons](https://p5js.org/reference/#/p5/createButton)
 
 #### Références
 * [John Whitney — Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
