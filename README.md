@@ -161,6 +161,8 @@ createCanvas(widthCard*s,heightCard*s,SVG); // notez le troisième paramètre SV
 Nous allons apprendre à générer des formes composées à partir d’une forme simple qui sera dupliquée et transformée. Pour cela nous allons exploiter les fonctions de transformations du repère ([translate](https://p5js.org/reference/#/p5/translate), [rotate](https://p5js.org/reference/#/p5/rotate), [scale](https://p5js.org/reference/#/p5/scale)), combinées avec la structure de boucle que nous avons vus la semaine passée.
 Nous en profiterons pour revoir les boucles pour combiner répétitions et transformations.
 
+<img src="05_spirographe.png" height="250" />
+
 #### Références "spirographes"
 * [John Whitney — Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
  
