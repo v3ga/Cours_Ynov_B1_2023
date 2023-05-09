@@ -148,10 +148,10 @@ createCanvas(widthCard*s,heightCard*s,SVG); // notez le troisième paramètre SV
 
 À partir de ce cours, vous travaillerez en *dupliquant* ce sketch : https://editor.p5js.org/v3ga/sketches/dLcxRCEFe
 
-### Exemple "Quatre éléments" avex export SVG
+### Exemple "Quatre éléments" avec export SVG
 ✍️ https://editor.p5js.org/v3ga/sketches/2aliwVF_y
 
-### Exemple "Arcs Truchet" avex export SVG
+### Exemple "Arcs Truchet" avec export SVG
 ✍️ https://editor.p5js.org/v3ga/sketches/Sh0OgoeS5
 
 ### Template pour la grille de motifs
