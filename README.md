@@ -138,6 +138,22 @@ L'exercice sera à rendre pour le **jeudi 23 mars** au plus tard, l'addresse du 
 ## Cours 05
 *mardi 9 mai*
 
+### Template pour les cartes de visite
+Nous allons travailler aujourd'hui avec un canvas dont la taille est proportionnelle à la taille de la carte de visite que nous allons imprimer ( 80 x 50 mm ). Nous allons travailler avec une bibliothèque externe qui va nous permettre d'exporter notre dessin non plus à un format image mais à un format vectoriel ( [format SVG](https://fr.wikipedia.org/wiki/Scalable_Vector_Graphics) ).
+Nous allons utiliser deux variable **widthCard** et **heightCard** qui vont respectivement représenter la largeur et la hauteur de notre carte. Comme nous travaillons en pixels, nous devons mettre à  l'échelle pour que les dimensions à l'écran ne soient pas trop petites. Pour cela nous utilisons la variable **s** (pour *scale* = mise à l'échelle)
+
+```javascript
+createCanvas(widthCard*s,heightCard*s,SVG); // notez le troisième paramètre SVG
+```
+
+À partir de ce cours, vous travaillerez en *dupliquant* ce sketch : https://editor.p5js.org/v3ga/sketches/dLcxRCEFe
+
+### Exemple export SVG avec la grille de motifs
+https://editor.p5js.org/v3ga/sketches/2aliwVF_y
+
+### Template pour la grille de motifs
+✍️ https://editor.p5js.org/v3ga/sketches/ormNS3fC9 
+
 ### Transformations
 Nous allons apprendre à générer des formes composées à partir d’une forme simple qui sera dupliquée et transformée. Pour cela nous allons exploiter les fonctions de transformations du repère ([translate](https://p5js.org/reference/#/p5/translate), [rotate](https://p5js.org/reference/#/p5/rotate), [scale](https://p5js.org/reference/#/p5/scale)), combinées avec la structure de boucle que nous avons vus la semaine passée.
 Nous en profiterons pour revoir les boucles pour combiner répétitions et transformations.
