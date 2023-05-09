@@ -161,21 +161,22 @@ createCanvas(widthCard*s,heightCard*s,SVG); // notez le troisième paramètre SV
 Nous allons apprendre à générer des formes composées à partir d’une forme simple qui sera dupliquée et transformée. Pour cela nous allons exploiter les fonctions de transformations du repère ([translate](https://p5js.org/reference/#/p5/translate), [rotate](https://p5js.org/reference/#/p5/rotate), [scale](https://p5js.org/reference/#/p5/scale)), combinées avec la structure de boucle que nous avons vus la semaine passée.
 Nous en profiterons pour revoir les boucles pour combiner répétitions et transformations.
 
+#### Références "spirographes"
+* [John Whitney — Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
+ 
 ### Interface graphique (UI)
 Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des [sliders](https://p5js.org/reference/#/p5/createSlider) ou en déclanchant des actions avec des [boutons](https://p5js.org/reference/#/p5/createButton)
 
-#### Projet ⚠️
+## ⚠️ Projet ⚠️
 À préparer pour le **mercredi 17 mai** impérativement.
 Le travail est à faire par binôme ou seul. Pour les binômes, merci de colorer les cellules correspondant à vos noms dans [le document Google Sheet](https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/). 
 Partir du sketch https://editor.p5js.org/v3ga/sketches/ormNS3fC9 et imaginer au moins quatre motifs qui se combinent en utilisant uniquement des dessins avec des "lignes" (line, arc, bezier, triangle, etc ... avec *noFill()*)
 
-
-#### Références "grilles"
+#### Références "grilles de motifs"
 * [Anna Carreras / Trosset](https://www.artblocks.io/project/147)
 * [Collection des L2 Design Arts Bordeaux Montaigne (2021)](https://editor.p5js.org/v3ga/collections/ZUiEWFocJ)
 * [Collection des L2 Design Arts Bordeaux Montaigne (2022)](https://editor.p5js.org/v3ga/collections/pROfwp32m)
 * [Grilles de truchet (images)](https://www.qwant.com/?client=brz-brave&t=images&q=truchet+grille&o=0%3AC9C8648332497AA6B9189484BAF8D6733465D4F4)
 
-#### Références "spirographes"
-* [John Whitney — Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
+
 
