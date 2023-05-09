@@ -32,7 +32,7 @@ Le cours sera consacré au deux tiers à l'étude théorique de concepts de prog
 Pour les exercices que je vous donne, le barême est le suivant (sur 10)
 * **rendu en temps et en heure** :point_right: 1 point.
 * **respect de la consigne** :point_right: 3 points. 
-Le sketch doit être sauvegardé sur votre compte en ligne, l'addresse (URL) doit être insérée dans la colonne correspondante dans le document Google Sheet (à venir). 
+Le sketch doit être sauvegardé sur votre compte en ligne, l'addresse (URL) doit être insérée dans la colonne correspondante dans [le document Google Sheet](https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/). 
 * **créativité** :point_right: 6 points. 
 J'entends par créativité une recherche graphique personelle et/ou interactive qui peut se faire à partir de sketches vus en classe ou de références que vous trouvez en ligne.
 
@@ -164,6 +164,18 @@ Nous en profiterons pour revoir les boucles pour combiner répétitions et trans
 ### Interface graphique (UI)
 Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des [sliders](https://p5js.org/reference/#/p5/createSlider) ou en déclanchant des actions avec des [boutons](https://p5js.org/reference/#/p5/createButton)
 
-#### Références
+#### Projet 
+À préparer pour le **mercredi 17 mai** impérativement.
+Le travail est à faire par binôme ou seul. Pour les binômes, merci de colorer les cellules correspondant à vos noms dans [le document Google Sheet](https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/). 
+Partir du sketch https://editor.p5js.org/v3ga/sketches/ormNS3fC9 et imaginer au moins quatre motifs qui se combinent en utilisant uniquement des dessins avec des "lignes" (line, arc, bezier, triangle, etc ... avec *noFill()*)
+
+
+#### Références "grilles"
+* [Anna Carreras / Trosset](https://www.artblocks.io/project/147)
+* [Collection des L2 Design Arts Bordeaux Montaigne (2021)](https://editor.p5js.org/v3ga/collections/ZUiEWFocJ)
+* [Collection des L2 Design Arts Bordeaux Montaigne (2022)](https://editor.p5js.org/v3ga/collections/pROfwp32m)
+* [Grilles de truchet (images)](https://www.qwant.com/?client=brz-brave&t=images&q=truchet+grille&o=0%3AC9C8648332497AA6B9189484BAF8D6733465D4F4)
+
+#### Références "spirographes"
 * [John Whitney — Catalog (1961)](https://www.youtube.com/watch?v=TbV7loKp69s)
 
