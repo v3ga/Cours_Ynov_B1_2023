@@ -171,6 +171,7 @@ Nous apprendrons aussi à relier une variable à un élément d'interface graphi
 
 ## Cours 06 | Cours 07
 *mercredi 17 mai*
+
 Nous allons consacrer la journée à la préparation des motifs / patterns pour l'impression avec le traceur [axidraw](https://www.axidraw.com/). L'objectif sera d'avoir imprimé en fin de journée au moins deux cartes de visite pour chacun, je ferai la découpe pour la semaine prochaine.
 
 ## ⚠️ Projet ⚠️
