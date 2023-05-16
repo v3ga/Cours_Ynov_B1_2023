@@ -169,6 +169,10 @@ Nous en profiterons pour revoir les boucles pour combiner répétitions et trans
 ### Interface graphique (UI)
 Nous apprendrons aussi à relier une variable à un élément d'interface graphique (UI = user interface) pour explorer plus facilement les potentialités de notre algorithme en modifiant la valeur de variables grâce à des [sliders](https://p5js.org/reference/#/p5/createSlider) ou en déclanchant des actions avec des [boutons](https://p5js.org/reference/#/p5/createButton)
 
+## Cours 06 | Cours 07
+*mercredi 17 mai*
+Nous allons consacrer la journée à la préparation des motifs / patterns pour l'impression avec le traceur [axidraw](https://www.axidraw.com/). L'objectif sera d'avoir imprimé en fin de journée au moins deux cartes de visite pour chacun, je ferai la découpe pour la semaine prochaine.
+
 ## ⚠️ Projet ⚠️
 À préparer pour le **mercredi 17 mai** impérativement.
 Le travail est à faire par binôme ou seul. Pour les binômes, merci de colorer les cellules correspondant à vos noms dans [le document Google Sheet](https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/). 
