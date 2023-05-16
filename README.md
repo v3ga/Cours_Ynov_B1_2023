@@ -172,9 +172,46 @@ Nous apprendrons aussi à relier une variable à un élément d'interface graphi
 ## Cours 06 | Cours 07
 *mercredi 17 mai*
 
-Nous allons consacrer la journée à la préparation des motifs / patterns pour l'impression avec le traceur [axidraw](https://www.axidraw.com/). L'objectif sera d'avoir imprimé en fin de journée au moins deux cartes de visite pour chacun, je ferai la découpe pour la semaine prochaine.
-
 <img src="Axidraw-landscape-720p.gif" />
+
+Nous allons consacrer la journée à la préparation des motifs / patterns pour l'impression avec le traceur [axidraw](https://www.axidraw.com/). L'objectif sera d'avoir imprimé en fin de journée au moins deux cartes de visite pour chacun, je ferai la découpe pour la semaine prochaine. Attention, il va falloir rajouter ce bout de code pour exporter à la bonne taille physique de 80x50mm.
+
+### Un peu de code 
+
+```javascript
+// ------------------------------------
+function beginExport()
+{
+  let svg = document.getElementsByTagName("svg")[0];
+  svg.setAttribute("width", `${widthCard}mm`);
+  svg.setAttribute("height", `${heightCard}mm`);
+}
+
+// ------------------------------------
+function endExport()
+{
+  let svg = document.getElementsByTagName("svg")[0];
+  svg.setAttribute("width", `${width}`);
+  svg.setAttribute("height", `${height}`);
+}
+```
+
+Et modifier en conséquence notre fonction **exporter()** comme suit : 
+
+```javascript
+function exporter()
+{
+  beginExport();
+  save(`carte_grille_80x50mm_${name}.svg`);
+  endExport();
+}
+```
+
+### Typographie
+Nous allons utiliser la fonte **"Relief-SingleLine"** pour utiliser du texte avec le traceur :   
+* https://github.com/isdat-type/Relief-SingleLine
+
+<img src="https://raw.githubusercontent.com/isdat-type/Relief-SingleLine/main/documentation/cnc_engraving_proofs/Relief-SingleLine_laser_plywood_text_bw.jpg" width="640" />
 
 ## ⚠️ Projet ⚠️
 À préparer pour le **mercredi 17 mai** impérativement.
