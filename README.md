@@ -174,6 +174,8 @@ Nous apprendrons aussi à relier une variable à un élément d'interface graphi
 
 Nous allons consacrer la journée à la préparation des motifs / patterns pour l'impression avec le traceur [axidraw](https://www.axidraw.com/). L'objectif sera d'avoir imprimé en fin de journée au moins deux cartes de visite pour chacun, je ferai la découpe pour la semaine prochaine.
 
+<img src="Axidraw-landscape-720p.gif" />
+
 ## ⚠️ Projet ⚠️
 À préparer pour le **mercredi 17 mai** impérativement.
 Le travail est à faire par binôme ou seul. Pour les binômes, merci de colorer les cellules correspondant à vos noms dans [le document Google Sheet](https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/). 
