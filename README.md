@@ -213,6 +213,19 @@ Nous allons utiliser la fonte **"Relief-SingleLine"** pour utiliser du texte ave
 
 <img src="https://raw.githubusercontent.com/isdat-type/Relief-SingleLine/main/documentation/cnc_engraving_proofs/Relief-SingleLine_laser_plywood_text_bw.jpg" width="640" />
 
+Vous devez installer la fonte **outline_otf/ReliefSingleLineOutline-Regular.otf**. 
+
+### Composition
+L'idée est de créer le recto pour afficher vos informations, au minimum le nom et le prénom et un moyen de vous contacter (numéro de téléphone, e-mail ou site web par exemple)
+
+<img src="Carte_visite_composition_exemple.jpg" width="400px" />
+
+
+Sur Illustrator, vous pouvez créer un document de 80x55mm. 
+Au moment de l'export au format SVG, il est impératif d'utiliser "Vectoriser" pour la police de caractères.
+
+<img src="illustrator_export.png" width="400px" />
+
 ## ⚠️ Projet ⚠️
 À préparer pour le **mercredi 17 mai** impérativement.
 Le travail est à faire par binôme ou seul. Pour les binômes, merci de colorer les cellules correspondant à vos noms dans [le document Google Sheet](https://docs.google.com/spreadsheets/d/1o2iodrZ1eRMqgRZ5F2kOGk0EFqyRkUmMwBsui-VPnLk/). 
