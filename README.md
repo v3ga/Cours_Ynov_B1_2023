@@ -221,8 +221,7 @@ L'idée est de créer le recto pour afficher vos informations, au minimum le nom
 Sur Illustrator, vous pouvez créer un document de 80x55mm. 
 Au moment de l'export au format SVG, il est impératif d'utiliser "Vectoriser" pour la police de caractères.
 
-<img src="Carte_visite_composition_exemple.jpg" width="300px" />
-<img src="illustrator_export.png" width="400px" />
+<img src="Carte_visite_composition_exemple.jpg" width="300px" /><img src="illustrator_export.png" width="400px" />
 
 ## ⚠️ Projet ⚠️
 À préparer pour le **mercredi 17 mai** impérativement.
