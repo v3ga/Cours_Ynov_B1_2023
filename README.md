@@ -202,7 +202,7 @@ Et modifier en conséquence notre fonction **exporter()** comme suit :
 function exporter()
 {
   beginExport();
-  save(`carte_grille_80x50mm_${name}.svg`);
+  save(`carte_grille_80x55mm_${name}.svg`);
   endExport();
 }
 ```
@@ -218,10 +218,18 @@ Vous devez installer la fonte **outline_otf/ReliefSingleLineOutline-Regular.otf*
 ### Composition
 L'idée est de créer le recto pour afficher vos informations, au minimum le nom et le prénom et un moyen de vous contacter (numéro de téléphone, e-mail ou site web par exemple)
 
-Sur Illustrator, vous pouvez créer un document de 80x55mm. 
+Sur Illustrator, vous pouvez créer un document de dimensions **80x55mm**. 
 Au moment de l'export au format SVG, il est impératif d'utiliser "Vectoriser" pour la police de caractères.
 
 <img src="Carte_visite_composition_exemple.jpg" height="250px" /><img src="illustrator_export.png" height="250px" />
+
+### Récupération des données
+Pour *chaque étudiant*, vous allez créer un dossier à votre nom dans le Google Drive suivant : https://drive.google.com/drive/folders/1dWlHaBuwxas3eshLDDHliGDtOY2ftTlj?usp=sharing
+
+Et placer les deux fichiers qui correspondent :
+* au motif à imprimer avec le nom formaté comme suit **carte_grille_80x55mm_Gachadoat_Julien.svg**
+* aux informations à imprimer avec le nom formaté **carte_informations_Gachadoat_Julien.svg**
+
 
 ## ⚠️ Projet ⚠️
 À préparer pour le **mercredi 17 mai** impérativement.
