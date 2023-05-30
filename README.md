@@ -234,7 +234,7 @@ Et placer les deux fichiers qui correspondent :
 * Révision sur le système de particules de la semaine dernière, et notamment la notion de tableaux.
 * Modification pour supprimer les particules qui sont détectées hors de l'écran, au lieu de les faire rebondir.
 * Gestion du flux vidéo, cas pratique avec la détection de visage issue des librairies [ml5.js](https://learn.ml5js.org/), notamment [Facemesh](https://learn.ml5js.org/#/reference/facemesh).
-* Inétgration de notre système de particules : émission de particules lorsque l'utilisateur ouvre la bouche.
+* Intégration de notre système de particules : émission de particules lorsque l'utilisateur ouvre la bouche.
 
 <img src="07_particules_01.png" height="250" /><img src="07_particules_02.png" height="250" />
 
