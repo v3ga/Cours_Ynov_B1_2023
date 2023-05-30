@@ -230,7 +230,8 @@ Et placer les deux fichiers qui correspondent :
 * au motif à imprimer avec le nom formaté comme suit **carte_grille_80x55mm_Gachadoat_Julien.svg**
 * aux informations à imprimer avec le nom formaté **carte_informations_Gachadoat_Julien.svg**
 
-## Cours 08
+## Cours 08*
+*Mardi 30 mai*
 * Révision sur le système de particules de la semaine dernière, et notamment la notion de tableaux.
 * Modification pour supprimer les particules qui sont détectées hors de l'écran, au lieu de les faire rebondir.
 * Gestion du flux vidéo, cas pratique avec la détection de visage issue des librairies [ml5.js](https://learn.ml5js.org/), notamment [Facemesh](https://learn.ml5js.org/#/reference/facemesh).
